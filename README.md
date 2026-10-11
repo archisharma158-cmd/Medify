@@ -22,10 +22,16 @@
   />
 
 </div>
-link - https://med-verify-8yp3qwtd1-pro-spy.vercel.app/
-[![Live Showcase Site](https://img.shields.io/badge/🌐_Live_Showcase-Medify_Site-00D9AA?style=for-the-badge&logo=googlechrome&logoColor=black)](https://archisharma158-cmd.github.io/Med-Verify/)
-[![Interactive Architecture](https://img.shields.io/badge/📐_Interactive-Architecture_Hub-00A86B?style=for-the-badge&logo=diagramsdotnet&logoColor=white)](#-system-architecture)
-[![Documentation](https://img.shields.io/badge/📖_View-Documentation-006B45?style=for-the-badge&logo=github&logoColor=white)](#-about-medify)
+
+<p align="center">
+  <a href="https://med-verify-8yp3qwtd1-pro-spy.vercel.app/">
+    <img src="https://img.shields.io/badge/Live_Demo-Launch_Medify-00A86B?style=for-the-badge&logo=vercel&logoColor=white" alt="Launch Medify"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://archisharma158-cmd.github.io/Medify/">
+    <img src="https://img.shields.io/badge/Documentation-View_Architecture-006B45?style=for-the-badge&logo=githubpages&logoColor=white" alt="View Architecture"/>
+  </a>
+</p>
 
 <br />
 
@@ -40,7 +46,17 @@ link - https://med-verify-8yp3qwtd1-pro-spy.vercel.app/
 
 <br />
 
-[🌐 Live Showcase Site](https://archisharma158-cmd.github.io/Med-Verify/) · [📖 System Architecture](#-system-architecture) · [⚙️ Backend Architecture](#-backend-architecture) · [🔄 Verification Workflow](#-medicine-verification-workflow) · [✨ Features](#-key-features) · [🚀 Quick Start](#-getting-started) · [🔌 API Docs](#-api-documentation) · [🤝 Meet the Team](#-team-and-contributors)
+<p align="center">
+  <a href="https://med-verify-8yp3qwtd1-pro-spy.vercel.app/">🌐 Live Application</a>
+  &nbsp; • &nbsp;
+  <a href="https://archisharma158-cmd.github.io/Medify/">📖 Documentation</a>
+  &nbsp; • &nbsp;
+  <a href="#-key-features">✨ Features</a>
+  &nbsp; • &nbsp;
+  <a href="#-getting-started">🚀 Quick Start</a>
+  &nbsp; • &nbsp;
+  <a href="#-team-and-contributors">🤝 Our Team</a>
+</p>
 
 </div>
 
